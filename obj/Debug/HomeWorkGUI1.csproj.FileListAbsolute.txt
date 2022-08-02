@@ -1,0 +1,12 @@
+C:\Users\SAMSUNG\Desktop\HomeWorkGUI1\bin\Debug\HomeWorkGUI1.exe.config
+C:\Users\SAMSUNG\Desktop\HomeWorkGUI1\bin\Debug\HomeWorkGUI1.exe
+C:\Users\SAMSUNG\Desktop\HomeWorkGUI1\bin\Debug\HomeWorkGUI1.pdb
+C:\Users\SAMSUNG\Desktop\HomeWorkGUI1\obj\Debug\HomeWorkGUI1.csproj.AssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\HomeWorkGUI1\obj\Debug\HomeWorkGUI1.csproj.SuggestedBindingRedirects.cache
+C:\Users\SAMSUNG\Desktop\HomeWorkGUI1\obj\Debug\HomeWorkGUI1.Form1.resources
+C:\Users\SAMSUNG\Desktop\HomeWorkGUI1\obj\Debug\HomeWorkGUI1.Properties.Resources.resources
+C:\Users\SAMSUNG\Desktop\HomeWorkGUI1\obj\Debug\HomeWorkGUI1.csproj.GenerateResource.cache
+C:\Users\SAMSUNG\Desktop\HomeWorkGUI1\obj\Debug\HomeWorkGUI1.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\HomeWorkGUI1\obj\Debug\HomeWorkGUI1.exe
+C:\Users\SAMSUNG\Desktop\HomeWorkGUI1\obj\Debug\HomeWorkGUI1.pdb
+C:\Users\SAMSUNG\Desktop\HomeWorkGUI1\obj\Debug\HomeWorkGUI1.second.resources
